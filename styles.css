@@ -1,0 +1,46 @@
+h1 {
+  font-family: 'Cinzel', serif;
+  font-weight: 900;
+  font-size: 96px; 
+  text-align: center;
+}
+body {
+  font-family: 'PT Serif', serif;
+  color: #414141;
+  line-height: 1.125;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+.subtitle, p, a {
+  color: inherit; 
+  font-family: inherit;
+}
+.subtitle {
+  font-weight: 400;
+  font-size: 2.25rem; 
+  color: #7D7D7D;
+  text-align: center;
+}
+.lead {
+  font-size: 1.3125rem; 
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+p {
+  font-size: 1.125rem; 
+  font-weight: 400;
+  line-height: 1.6;
+}
+a {
+  color: #CA5E10;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
